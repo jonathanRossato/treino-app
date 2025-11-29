@@ -91,3 +91,12 @@
 - [x] Testar funcionalidade de registro de fotos com data e medidas
 
 - [x] Adicionar scroll interno ao modal de upload de fotos para tornar todos os campos acessíveis
+
+- [x] Criar workflow GitHub Actions para deploy no Vercel
+- [x] Criar arquivo de configuração vercel.json
+- [x] Criar documentação de setup de CI/CD
+
+- [x] Corrigir variáveis de ambiente VITE_ANALYTICS não definidas
+- [x] Corrigir script tag do Umami no index.html
+- [x] Implementar code-splitting para reduzir tamanho dos chunks
+- [x] Otimizar configuração do Vite para melhor performance de build
